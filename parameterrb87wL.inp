@@ -1,0 +1,24 @@
+mfab  thresh	iflag(CC:1, FT:0)	iflagBorwL(B:0,wL:1,both:2)	iflagmol(Mol:1,Scat:0) Input parameters of Rb87+Rb87
+0	3	1			0				0
+
+Einput(au)
+3.166815355d-12
+
+c6			c8			c10
+4700d0			550600d0			76650000d0
+
+m1			m2
+158425.736167d0		158425.736167d0
+
+Rmatch 
+35d0
+
+Binital		Bfinal		Numpoints
+8.5d0		9d0		2
+
+wLinital        wLfinal         NumwLpoints
+30d0	    	38d0            1001
+
+Bx(Gauss)  wL(MHz)	nblock
+4d0	   77.5d0 	1
+
